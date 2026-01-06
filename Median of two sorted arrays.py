@@ -9,6 +9,9 @@
 # Explanation: merged array = [1,2,3] and median is 2.
 
 
+
+
+
 def median(nums1: int, nums2: int) -> float:
         #Brute Force 
         #Time - O(m+n)
