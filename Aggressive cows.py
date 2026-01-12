@@ -1,5 +1,5 @@
 #https://www.geeksforgeeks.org/problems/aggressive-cows/1
-
+ 
 # Input: stalls[] = [1, 2, 4, 8, 9], k = 3
 # Output: 3
 # Explanation: The first cow can be placed at stalls[0], 
